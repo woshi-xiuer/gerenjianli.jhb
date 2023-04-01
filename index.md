@@ -20,10 +20,6 @@
             text-align:center;
             vertical-align:middle;
              } 
-        pre1{
-            background:yellow;
-            vertical-align:middle;
-            }
   </style>
 </head>
 <body>
