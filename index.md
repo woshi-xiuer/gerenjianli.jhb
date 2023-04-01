@@ -16,7 +16,7 @@
             font-style:italic;
           }
        pre{
-            background:blue;
+            background:yellow;
             text-align:center;
             vertical-align:middle;
              } 
