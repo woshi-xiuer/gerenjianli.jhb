@@ -14,6 +14,7 @@
            color:red;
            background:lightblue;
             font-style:italic;
+           text-align:center;
           }
        pre{
             background:yellow;
