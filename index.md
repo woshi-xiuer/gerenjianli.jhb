@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,19 +6,29 @@
   <meta name="viewport" content="width=device-width">
   <title>hty的个人简历进化版</title>
   <style>
+     body{
+          background-color:lightblue;
+          border-style:ridge;  
+          background-image:url("http://bpic.588ku.com/back_pic/04/83/48/4458d22eedcfc8d.jpg");
+          }
       h1{
            font-size:60px;
-            color:grey;
-            background:lightblue;
+            color:blue;            
+        }
+        h2{
+           font-size:35px;
+        font-family:Cursive;
+        opacity:0.5;
         }
        p{
            color:red;
-           background:lightblue;
             font-style:italic;
            text-align:center;
+           font-size:30px;
           }
        pre{
-            background:yellow;
+            border-style:outset;           
+            color:blue;
             text-align:center;
             vertical-align:middle;
              } 
@@ -30,9 +41,9 @@
   <h2>基本信息</h2>
         
        <pre><big><big>
-           姓名：郝田雨               年龄：20                                    .
-           民族：汉                   政治面貌：群众                          <img alt="帅照飞走咯">
-           学历：本科                  毕业院校：吉林大学                            .
+           姓名：郝田雨               年龄：20                                     .
+           民族：汉                   政治面貌：群众                    <img alt="帅照飞走咯">
+           学历：本科                 毕业院校：吉林大学                           .
            电话：10086                地址：朝阳区                                 .
        </big></big></pre><hr>
    <h2>教育经历</h2>
